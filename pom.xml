@@ -165,7 +165,6 @@
           <artifactId>jetty-maven-plugin</artifactId>
           <version>8.0.0.M1</version>
         </plugin>
- 
               <plugin>
             <groupId>org.codehaus.mojo</groupId>
             <artifactId>sonar-maven-plugin</artifactId>
@@ -179,7 +178,6 @@
                     </goals>
                 </execution>
             </executions>
-        </plugin>
     </plugin>
       </plugins>
     </pluginManagement>
